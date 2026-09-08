@@ -50,3 +50,7 @@ payload:
   - DOMAIN-SUFFIX,sankakuapi.com
   - DOMAIN-SUFFIX,sankakucomplex.com
   - DOMAIN-SUFFIX,sankakustatic.com
+  - DOMAIN-KEYWORD,zonaserialov
+  - DOMAIN-KEYWORD,kinoflux
+  - DOMAIN-KEYWORD,seasonvar
+  - DOMAIN-KEYWORD,kinoflux
