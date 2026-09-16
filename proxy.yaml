@@ -12,3 +12,5 @@ payload:
   - DOMAIN-SUFFIX,olxcdn.com
   - DOMAIN-SUFFIX,dubicars.com
   - DOMAIN-SUFFIX,autoplius.lt
+  - DOMAIN-SUFFIX,olx.com
+  - DOMAIN-SUFFIX,olxgroup.com
