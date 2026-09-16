@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,classistatic.de
   - DOMAIN-SUFFIX,autoscout24.de
   - DOMAIN-SUFFIX,autoscout24.com
+  - DOMAIN-SUFFIX,autoscout24.net
   - DOMAIN-SUFFIX,otomoto.pl
   - DOMAIN-SUFFIX,olx.pl
   - DOMAIN-SUFFIX,olxcdn.com
