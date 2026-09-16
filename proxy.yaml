@@ -3,9 +3,12 @@ payload:
   - DOMAIN-SUFFIX,rutor.org
   - DOMAIN-SUFFIX,fastpic.org
   - DOMAIN-SUFFIX,imageban.ru
-  - DOMAIN-SUFFIX,mobile.de
-  - DOMAIN-SUFFIX,autoscout24.de
-  - DOMAIN-SUFFIX,otomoto.pl
-  - DOMAIN-SUFFIX,dubicars.com
-  - DOMAIN-SUFFIX,classistatic.de
-  - DOMAIN-SUFFIX,autoplius.lt
+  -DOMAIN-SUFFIX,mobile.de
+  -DOMAIN-SUFFIX,classistatic.de
+  -DOMAIN-SUFFIX,autoscout24.de
+  -DOMAIN-SUFFIX,autoscout24.com
+  -DOMAIN-SUFFIX,otomoto.pl
+  -DOMAIN-SUFFIX,olx.pl
+  -DOMAIN-SUFFIX,olxcdn.com
+  -DOMAIN-SUFFIX,dubicars.com
+  -DOMAIN-SUFFIX,autoplius.lt
