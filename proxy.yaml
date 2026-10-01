@@ -21,8 +21,15 @@ payload:
   - DOMAIN-SUFFIX,ficbook.net
   - DOMAIN-SUFFIX,copart.com
   - DOMAIN-SUFFIX,mashina.kg
-  - DOMAIN-SUFFIX,dongchedi.com
   - DOMAIN-SUFFIX,che168.com
   - DOMAIN-SUFFIX,autohome.com.cn
   - DOMAIN-SUFFIX,autohome.com
+  - DOMAIN-SUFFIX,dongchedi.com
+  - DOMAIN-SUFFIX,dcarapi.com
+  - DOMAIN-SUFFIX,dcarimg.com
+  - DOMAIN-SUFFIX,dcarstatic.com
+  - DOMAIN-SUFFIX,dcarlive.com
+  - DOMAIN-SUFFIX,dcarvod.com
+  - DOMAIN-SUFFIX,dcdapp.com
+  - DOMAIN-SUFFIX,dongchediapp.com
 
