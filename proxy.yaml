@@ -24,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,che168.com
   - DOMAIN-SUFFIX,autohome.com.cn
   - DOMAIN-SUFFIX,autohome.com
-  - DOMAIN-SUFFIX,dongchedi.com
   - DOMAIN-SUFFIX,dcarapi.com
   - DOMAIN-SUFFIX,dcarimg.com
   - DOMAIN-SUFFIX,dcarstatic.com
@@ -32,4 +31,15 @@ payload:
   - DOMAIN-SUFFIX,dcarvod.com
   - DOMAIN-SUFFIX,dcdapp.com
   - DOMAIN-SUFFIX,dongchediapp.com
-
+  - DOMAIN-SUFFIX,iaai.com
+  - DOMAIN-SUFFIX,autohome.cn
+  - DOMAIN-SUFFIX,autoimg.cn
+  - DOMAIN-SUFFIX,athm.cn
+  - DOMAIN-SUFFIX,athmapp.com
+  - DOMAIN-SUFFIX,carso.cn
+  - DOMAIN-SUFFIX,carso.com.cn
+  - DOMAIN-SUFFIX,dongchedi.com
+  - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,byted-static.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
